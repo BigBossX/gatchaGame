@@ -11,3 +11,6 @@ Gatcha game merupakan game dari basis https://pig-game-v2.netlify.app/ yang dide
 5. Sedangkan saat dadu menyentuh angka 1 maka secara otomatis pemain akan dialihkan ke pemain lain.
 6. Saat score salah satu pemain sudah sampai 100 maka game akan berhenti, lalu tombol new game akan muncul untuk memulai permainan kembali.
 7. Saat tombol new ditekan maka pemain pertama yang dapat menggunakan dadu adalah pemain yang menang.
+
+Anda dapat mencoba game ini di bigbossx.github.io/gatchaGame
+Jika anda bermain di Ponsel wajib menggunakan pc mode.
