@@ -36,7 +36,7 @@ const playersDoRoll = (players, random) => {
 
 const diceChanges = random => {
   dice.classList.remove('hidden');
-  dice.src = `/images/dice-${random}.png`;
+  dice.src = `./images/dice-${random}.png`;
 };
 
 const currentScoresChange = (player, currentScore) => {
