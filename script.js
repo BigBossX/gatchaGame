@@ -69,7 +69,7 @@ const playersDoHold = () => {
       scoreChanges(0);
     }
 
-    if (parseInt(totalScore.textContent) >= 10) {
+    if (parseInt(totalScore.textContent) >= 100) {
       classDo(player, 'remove', 'player--active');
       classDo(player, 'add', 'player--winner');
       __awplayable = false;
